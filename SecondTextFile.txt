@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 SecondTextFile - Second-Feature fixed
+=======
